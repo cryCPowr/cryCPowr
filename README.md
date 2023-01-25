@@ -1,7 +1,10 @@
-### Hi there 👋
+### English: Hi there 👋
+### Indonesia: Hi yang di sana 👋
+### Arab: مرحبًا هناك 👋
+### Japanese: こんにちは 👋
 
 <!--
-**guidovranken/guidovranken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cryCPowr/cryCPowr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
