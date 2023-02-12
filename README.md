@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi, I'm Farhan Agil, from Indonesia. ~~I've finished my Masters in Computer Science on randomness in blockchain and have since been involved in several blockchain projects. I also regularly blog about Ethereum development at https://-----/.
+Hi, I'm Farhan Agil, from Indonesia. ~~I've finished my Masters in Computer Science on randomness in blockchain and have since been involved in several blockchain projects. I also regularly blog about Ethereum development at https://-----/.~~
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
