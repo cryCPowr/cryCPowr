@@ -40,7 +40,7 @@ Hi, I'm Farhan Agil, from Indonesia. ~~I've finished my Masters in Computer Scie
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working at **[------](https://github.com/------)** on a decentralized exchange and futures platform.
+- 👨🏻‍💻 I'am currently working as a freelancer for a decentralized smart contract..
 - ✍️ Lead-editor at [------](https:------).
 - 💬 Ask me about anything, I would like to answer.
 - 🌐 You can find more information about me at https:------
