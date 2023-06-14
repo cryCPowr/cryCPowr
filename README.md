@@ -64,4 +64,8 @@ Hi, I'm Farhan Agil, from Indonesia. ~~I've finished my Masters in Computer Scie
   </a>
 </p>
 </details>
-
+<p align="center">
+  <a href="https://github.com/cryCPowr">
+    <img src="https://komarev.com/ghpvc/?username=cryCPowr&color=blue&style=flat)" />
+  </a>
+</p>
