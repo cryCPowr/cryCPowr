@@ -48,5 +48,20 @@ Hi, I'm Farhan Agil, from Indonesia. ~~I've finished my Masters in Computer Scie
 - 🏃 In my free-time I like [Biohacking](https://github.com/cryCPowr/cryCPowr) and [------](https://www.youtube.com/watch?v=------).
 
 <br />
+<details>
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cryCPowr&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryCPowr&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cryCPowr&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryCPowr&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
 
-![gorgos's github stats](https://github-readme-stats.vercel.app/api?username=cryCPowr&count_private=true&show_icons=true&theme=dark&hide_border=true)
