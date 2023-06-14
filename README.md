@@ -1,7 +1,7 @@
 ### English: Hi there <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">
-### Indonesia: Hi yang di sana 👋
-### Arab: مرحبًا هناك 👋
-### Japanese: こんにちは 👋
+### Indonesia: Hi yang di sana <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">
+### Arab: مرحبًا هناك <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">
+### Japanese: こんにちは <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">
 
 <!--
 **cryCPowr/cryCPowr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
