@@ -1,4 +1,4 @@
-### English: Hi there 👋
+### English: Hi there width="28px" alt="👋"
 ### Indonesia: Hi yang di sana 👋
 ### Arab: مرحبًا هناك 👋
 ### Japanese: こんにちは 👋
