@@ -1,4 +1,4 @@
-### English: Hi there width="28px" alt="👋"
+### English: Hi there <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">
 ### Indonesia: Hi yang di sana 👋
 ### Arab: مرحبًا هناك 👋
 ### Japanese: こんにちは 👋
