@@ -43,7 +43,7 @@ Hi, I'm Farhan Agil, from Indonesia. I've finished my Masters in Computer Scienc
 - 👨🏻‍💻 I'am currently working as a freelancer for a decentralized smart contract..
 - ✍️ Lead-editor at [------](https:------).
 - 💬 Ask me about anything, I would like to answer.
-- 🌐 You can find more information about me at [twitter]((https://x.com/0x_taiga)
+- 🌐 You can find more information about me at [Twitter](https://x.com/0x_taiga)
 - 📫 Please email via [----] to reach me.
 - 🏃 In my free-time I like [Biohacking](https://github.com/cryCPowr/cryCPowr) and [------](https://www.youtube.com/watch?v=------).
 
