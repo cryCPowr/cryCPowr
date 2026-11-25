@@ -13,6 +13,7 @@ Python · Pandas · scikit-learn · JavaScript · Node.js · PHP · Java
 
 ## 📊 GitHub stats
 ![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryCPowr&show_icons=true&theme=radical)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cryCPowr&layout=compact&theme=radical)
 
 ## 📫 Find me
 - X/Twitter: [@0x_taiga](https://x.com/0x_taiga) — AI image prompts & AI agents
